@@ -1,1 +1,13 @@
+# LABEL file 
+# Last modified by ThundluckS on 13 Dec'19
+# revise name for labels : 'acc' && 'nonacc'
 
+item {
+    id: 1
+    name:'acc'
+}
+
+item {
+    id: 2
+    name: 'nonacc'
+}
