@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Z (51).jpg</filename>
+	<path>C:\Users\SARAH\Desktop\Images\Z (51).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>43</ymin>
+			<xmax>257</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>acc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>54</ymin>
+			<xmax>84</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>
