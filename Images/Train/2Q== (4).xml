@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Accident</folder>
+	<filename>2Q== (4).jpg</filename>
+	<path>C:\Users\HP\Desktop\Images\Accident\2Q== (4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>15</ymin>
+			<xmax>243</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>
